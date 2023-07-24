@@ -350,6 +350,7 @@ img {
 
 .customers-title {
     font-size: 36px;
+    text-align: center;
     line-height: 1.11;
     color: #2e2f42;
     margin-bottom: 72px;
@@ -509,12 +510,9 @@ img {
     display: block;
 }
 
-.portfolio-apps-link:hover {
+.portfolio-second-list-item:hover,
+.portfolio-second-list-item:focus {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-}
-
-.portfolio-apps-link:focus {
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); 
 }
 
 
