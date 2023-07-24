@@ -427,15 +427,15 @@ img {
     margin-bottom: 16px;
 }
 
-/* .footer-list {
+.footer-list {
     display: flex;
     gap: 16px;
 }
 
-.footer-item {
+/* .footer-item {
     width: 40px;
     height: 40px;
-}
+} */
 
 .footer-link {
     display: flex;
@@ -450,7 +450,7 @@ img {
 .footer-link:hover, 
 .footer-link:focus {
     background-color: #31d0aa;
-} */
+}
 
 
 /* ----------------Portfolio----------------*/
