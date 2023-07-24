@@ -390,6 +390,9 @@ img {
 .footer-container {
     display: flex;
     align-items: baseline;
+}
+
+.logo-container {
     margin-right: 120px;
 }
 
@@ -424,7 +427,7 @@ img {
     margin-bottom: 16px;
 }
 
-.footer-list {
+/* .footer-list {
     display: flex;
     gap: 16px;
 }
@@ -447,7 +450,7 @@ img {
 .footer-link:hover, 
 .footer-link:focus {
     background-color: #31d0aa;
-}
+} */
 
 
 /* ----------------Portfolio----------------*/
